@@ -1,8 +1,14 @@
+
 An attempt at a fully responsive game site prepared with media queries.
+
 Project Overview:
+
 A game site created using HTML5, CSS3 and JS codes.
- External Library:
+
+External Library:
+ 
 Google Fonts
+
 <h1>THE GAME WEBSITE</h1>
 
 <p> This project is a website designed using advanced HTML, CSS, JS codes. It includes Google fonts.
